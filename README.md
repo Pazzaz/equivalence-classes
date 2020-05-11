@@ -32,6 +32,9 @@ There is a python implementation in `count.py` and a rust implementation under
  26 : 275296
  27 : 457119
  28 : 719864
+ 29 : 1164165
+ 30 : 1927235
+ 31 : 3044980
 ... etc.
 ```
 
