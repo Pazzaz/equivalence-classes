@@ -24,8 +24,12 @@ There is a python implementation in `count.py` and a rust implementation under
  14 : 872
  15 : 1505
  16 : 2268
+ 17 : 3663
+ 18 : 6197
  19 : 9552
+ 20 : 15429
  21 : 25880
+ 22 : 40298
  23 : 65146
  24 : 108588
  25 : 170266
